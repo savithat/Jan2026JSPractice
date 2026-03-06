@@ -53,3 +53,4 @@ console.log(customerObj);
 console.log(customer.devices.length === customerObj.devices.length);
 console.log(customer.address.flat === customerObj.address.flat);
 console.log(customer.address.length === customerObj.address.length);
+
